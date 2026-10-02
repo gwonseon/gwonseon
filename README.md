@@ -13,7 +13,7 @@
 - 원티드 언리얼 & AI 융합 개발 트랙
 
 <p>
-  <a href="https://gwonseon-simulation-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0969DA?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://unreal-client-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0969DA?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://youtube.com/playlist?list=PLeczqNUptVkEtQwRySvOiO5DK8zGdtJrh"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
 </p>
 
